@@ -4,27 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="758ee199-d948-45f6-8a7c-7afbff132f64" name="更改" comment="环境初始化成功，完成数据库连接">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89d7d9c6-ed86-4fe2-b078-1ebbabb5db25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89d7d9c6-ed86-4fe2-b078-1ebbabb5db25/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89d7d9c6-ed86-4fe2-b078-1ebbabb5db25/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89d7d9c6-ed86-4fe2-b078-1ebbabb5db25/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89d7d9c6-ed86-4fe2-b078-1ebbabb5db25/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/data_sources_history.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/music-server-flask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/permission.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/permission.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
+    <list default="true" id="758ee199-d948-45f6-8a7c-7afbff132f64" name="更改" comment="环境初始化成功，完成数据库连接2">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,10 +173,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.app" />
-      <item itemvalue="Python.music-server-flask" />
-      <item itemvalue="Python.sqlmanager" />
       <item itemvalue="Flask 服务器.Flask (app.py)" />
+      <item itemvalue="Python.music-server-flask" />
+      <item itemvalue="Python.app" />
+      <item itemvalue="Python.sqlmanager" />
     </list>
     <recent_temporary>
       <list>
@@ -227,7 +210,17 @@
       <workItem from="1776774672293" duration="173000" />
       <workItem from="1776862045186" duration="3526000" />
       <workItem from="1776865587400" duration="4041000" />
+      <workItem from="1776955521713" duration="525000" />
     </task>
+    <task id="LOCAL-00001" summary="环境初始化成功，完成数据库连接2">
+      <option name="closed" value="true" />
+      <created>1776955584736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776955584736</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +229,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="环境初始化成功，完成数据库连接" />
-    <option name="LAST_COMMIT_MESSAGE" value="环境初始化成功，完成数据库连接" />
+    <MESSAGE value="环境初始化成功，完成数据库连接2" />
+    <option name="LAST_COMMIT_MESSAGE" value="环境初始化成功，完成数据库连接2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/music_server_flask$app.coverage" NAME="app 覆盖结果" MODIFIED="1776867678261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
